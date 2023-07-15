@@ -1,0 +1,49 @@
+/*Ichika's color is #33AAEE*/
+body {
+    background-color: #000000;
+    color: white;
+}
+
+fieldset {
+    padding: 5px;
+    max-width: 200px;
+}
+
+.saki {
+    color: #FFDD45
+}
+
+.honami {
+    color:#EE6666
+}
+
+a:link {
+    color: #EE6666;
+}
+
+a:visited {
+    color: #EE6666;
+}
+
+a:hover, a:active {
+    color: #FFDD45;
+}
+
+h1, h2 {
+    font-size: 32px;
+    font-family: Lucida Handwriting, Brush Script MT;
+}
+
+p {
+    font-family: 'Courier New', Courier, Garamond ;
+}
+
+.honami mark {
+    background-color: #FFDD45;
+    color: #EE6666;
+}
+
+.saki mark {
+    background-color: #EE6666;
+    color: #FFDD45;
+}
